@@ -19,6 +19,33 @@
             "metodePembayaran": "Tunai",
             "prioritas": "Sedang",
             "keterangan": "Belanja Bulanan"
+        },
+        {
+            "tanggal": "30/11/2024",
+            "kategori": "PENGELUARAN",
+            "jenis": "Shooping",
+            "jumlah": "Rp. 2000000",
+            "metodePembayaran": "Tunai",
+            "prioritas": "Sedang",
+            "keterangan": "Belanja Bulanan"
+        },
+        {
+            "tanggal": "01/12/2024",
+            "kategori": "PEMASUKKAN",
+            "jenis": "Freelance",
+            "jumlah": "Rp. 3000000",
+            "metodePembayaran": "Transfer Bank",
+            "prioritas": "Tinggi",
+            "keterangan": "Proyek freelance"
+        },
+        {
+            "tanggal": "02/12/2024",
+            "kategori": "PENGELUARAN",
+            "jenis": "Transportasi",
+            "jumlah": "Rp. 500000",
+            "metodePembayaran": "Tunai",
+            "prioritas": "Sedang",
+            "keterangan": "Biaya transportasi harian"
         }
     ]
 }
