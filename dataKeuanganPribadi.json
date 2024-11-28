@@ -1,0 +1,24 @@
+{
+    "info": "sukses",
+    "pesan": "Data keuangan pribadi ditemukan!",
+    "data": [
+        {
+            "tanggal": "28/11/2024",
+            "kategori": "PEMASUKKAN",
+            "jenis": "Gaji",
+            "jumlah": "Rp. 10000000",
+            "metodePembayaran": "Transfer Bank",
+            "prioritas": "Tinggi",
+            "keterangan": "Gaji dari pekerjaan utama"
+        },
+        {
+            "tanggal": "29/11/2024",
+            "kategori": "PENGELUARAN",
+            "jenis": "Makan",
+            "jumlah": "Rp. 2000000",
+            "metodePembayaran": "Tunai",
+            "prioritas": "Sedang",
+            "keterangan": "Belanja Bulanan"
+        }
+    ]
+}
