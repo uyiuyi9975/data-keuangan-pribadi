@@ -1,0 +1,14 @@
+{
+    "info": "sukses",
+    "pesan": "Data Mahasiswa ditemukan!",
+    "data": [
+        {
+            "nama": "Rahmana Saputri",
+            "homebase": "D4 Teknologi Rekayasa Perangkat Lunak",
+            "alamat": "Sungailiat",
+            "quote1": "Jangan Lupa Sholat",
+            "makul": "OOP",
+            "nilai": {"tugas":85.01,"uts":90.23,"uas":83.50}
+        }
+    ]
+}
